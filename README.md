@@ -1,2 +1,2 @@
 # IS362-week3-assignment3
-IS362 week 3 assignment
+# This Notebook will use Pandas and Python to analyze a hyphothetical bicyle trip from New York to Key West
